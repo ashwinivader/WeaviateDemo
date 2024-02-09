@@ -1,0 +1,9 @@
+pandas
+numpy
+streamlit
+langchain
+langchain-community
+weaviate-client
+python-dotenv
+pypdf
+dataclasses
